@@ -1,0 +1,6 @@
+{
+  "name": "Barmina - Tienda Holística",
+  "description": "Tienda holística e-commerce para Barmina: sahumerios, difusores, velas, aromatizantes, esencias y accesorios con envíos a todo el país y venta por menor y mayor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
